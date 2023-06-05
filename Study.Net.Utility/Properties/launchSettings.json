@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Study.Net.Utility": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "nativeDebugging": false
+    }
+  }
+}
